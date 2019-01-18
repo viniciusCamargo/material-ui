@@ -6,7 +6,7 @@ Material Design指导下的设计原则让Material-UI起航，但一款软件往
 
 正因此，Material-UI绝不只是应用、实现Material Design所列述的原则，而更像一个面对广大用户提出的设计问题，提供优良设计组件甚或设计方案的UI库。 这个“一般化”的做法并没有遵循任何已有的设计原则。 此处我们还有想要表达的另一层意思，那就是Material-UI的一些组件或组合可能提供了Material Design还未给出的一些答案或设计思路。
 
-We will focus on providing all the low-level tools needed to build a rich user-interface with React. Once we implement the Material design specification (which is a bar set quite high), you should be able to take advantage of it for you own business with any style customization needed. We want to see companies succeeding using Material-UI in a way that matches their brand, close to the material philosophy or not. We don't want them to feel that their UI simply looks like another Google product.
+Material-UI致力于提供各类底层的、基础型的工具。有了她们，用户便可以开发出许许多多精致优秀的React界面。 Once we implement the Material design specification (which is a bar set quite high), you should be able to take advantage of it for you own business with any style customization needed. We want to see companies succeeding using Material-UI in a way that matches their brand, close to the material philosophy or not. We don't want them to feel that their UI simply looks like another Google product.
 
 From a developer's point of view, we want Material-UI to:
 
