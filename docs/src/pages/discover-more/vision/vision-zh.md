@@ -12,5 +12,5 @@ Material-UI致力于提供各类底层的、基础型的工具。有了她们，
 
 - 提供各类完整封装、组件化的React设计组件
 - 能够根据产品主题被定制
-- Be cross browser compatible and accessible.
-- Promote developer joy, a sense of community, and an environment where new and experienced developers can learn from each other.
+- 兼容多个主流浏览器
+- 帮开发者找寻到开发的乐趣，让大家感到在Material-UI这个社区里，各个等级、水平的开发者能够随心交流，相互学习
